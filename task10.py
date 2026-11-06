@@ -1,4 +1,6 @@
-# Swap two variables without using a third variable
+# Task 10: Swap Two Variables 
+# • Take two numbers as input. 
+# • Swap their values without using a third variable.
 
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))

@@ -1,4 +1,6 @@
-# Employee Details
+# Task 9: Employee Details 
+# • Create variables to store an employee's ID, name, salary, and department. 
+# • Display all the details.
 
 employee_id = 1010
 name = "sri"

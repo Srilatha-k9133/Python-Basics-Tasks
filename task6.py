@@ -1,3 +1,7 @@
+# Task 6: Identify the Valid Identifiers 
+# Identify which of the following are valid Python identifiers and explain why. 
+# student_name1studenttotal_marksclassemployee123my-name_pricefor
+
 student_name
 1student
 total_marks

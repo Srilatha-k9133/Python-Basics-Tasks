@@ -1,4 +1,6 @@
-# Bill Generator
+# Task 4: Bill Generator 
+# • Write a program to calculate the total bill for three products. 
+# • Display the product names, individual prices, and total amount 
 
 product1 = "Laptop"
 price1 = 50000

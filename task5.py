@@ -1,4 +1,7 @@
-# Student Result
+# Task 5: Student Result 
+# • Write a program to store a student's name and marks in three subjects. 
+# • Calculate the total and average. 
+# • Use proper indentation and comments. 
 
 name = input("Enter student name: ")
 

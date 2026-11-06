@@ -1,4 +1,6 @@
-#AREA OF SQUARE,RECTANGLE,CIRCLE
+# Task 3: Area Calculator 
+# • Write a program to calculate the area of a rectangle, square, and circle. 
+# • Take the required values as input.
 
 length = float(input("Enter a length of rectangle:"))
 width = float(input("Enter a width of rectangle:"))

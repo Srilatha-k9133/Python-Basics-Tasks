@@ -1,5 +1,8 @@
 # Display personal information
-
+# Task 1: Personal Information 
+# • Write a Python program to display your name, age, qualification, college name, and 
+# city. 
+# • Display each detail on a separate line. 
 name = "Srilatha"
 age = 20
 qualification = "B.Tech CSE"

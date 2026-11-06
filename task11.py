@@ -1,4 +1,8 @@
-# Simple Interest Calculator
+# Task 11: Simple Interest Calculator 
+# • Store the principal amount, rate of interest, and time in variables. 
+# • Calculate simple interest. 
+# Formula: 
+# SI = PTR/100 
 
 principal = 10000
 rate = 5
